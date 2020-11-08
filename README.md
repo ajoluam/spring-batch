@@ -5,4 +5,4 @@ Estudo de Spring Batch conforme Learn do Spring IO (https://spring.io/guides/gs/
 
 ![Job Heirarchy](https://docs.spring.io/spring-batch/docs/4.2.x/reference/html/images/job-heirarchy.png)
 
-![Job Heirarchy with Steps] (https://docs.spring.io/spring-batch/docs/4.2.x/reference/html/images/jobHeirarchyWithSteps.png)
+![Job Heirarchy with Steps](https://docs.spring.io/spring-batch/docs/4.2.x/reference/html/images/jobHeirarchyWithSteps.png)
